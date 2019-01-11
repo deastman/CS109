@@ -1,7 +1,7 @@
 CS109
 =====
 
-Data Science (CS109) at Harvard University, Fall '13 (In progress)
+Data Science (CS109) at Harvard University, Fall '13
 
 This course focused on methods for five key facets of an investigation: 
 data wrangling, cleaning, and sampling to get a suitable data set; data 
